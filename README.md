@@ -72,7 +72,6 @@ The project focuses on **social data analytics**, combining statistical reportin
 ---
 ![State Wise Analysis](Screenshot%202025-12-30%20033049.png)
 
-> 📌 Ensure screenshots are placed in the repository root or update paths if moved into a folder.
 
 ---
 
